@@ -1,0 +1,6 @@
+numpy
+setproctitle
+opencv-python
+imutils
+time
+datetime
